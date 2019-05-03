@@ -1,4 +1,8 @@
-# JIFF
+# Preference Recommendation & Clustering
+
+Privacy preserving recommendations and user profile clustering using JIFF.
+
+# JIFF Library
 
 Server- and client-side library for building JavaScript applications that have secure multi-party computation features. Parties running the server-side application can handle the relaying of shares between parties. Both client and server parties can act as input data contributors and as compute parties.
 
